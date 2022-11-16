@@ -1,0 +1,18 @@
+sender – A entidade sender fornece as informações relacionadas ao remetente/vendedor do
+produto referente à compra.
+
+recipient – Recipient armazena as informações referentes ao destinatário/cliente de uma
+determinada compra realizada.
+
+address – A entidade address armazena as informações sobre o endereço tanto do cliente
+quanto do vendedor referente à compra efetuada.
+
+volumes - Armazena informações referentes ao tamanho, peso, tipo e quantidade de itens
+que estão sendo enviados, bem como suas informações de rastreamento.
+
+item – Item armazena informações individuais de cada item, como seu preço, nome e
+quantidade conforme escolhido durante a compra.
+
+invoice – Armazena informações referentes à nota fiscal da compra realizada.
+
+transportationHistory – Armazena as atualizações referentes à compra que foi realizada. 

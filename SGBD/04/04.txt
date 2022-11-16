@@ -1,0 +1,3 @@
+As tabelas width, height e length podem ser mescladas em apenas uma única tabela,
+contendo uma coluna para a unidade de medida, e três outras colunas para
+cada dimensão do produto.
