@@ -1,5 +1,0 @@
-Lombok é uma biblioteca Java para ajudar o desenvolvedor a evitar a escrita de
-códigos repetitivos ou “boilerplates” (códigos repetitivos com pouca para 
-nenhuma variação).
-Fazendo o uso de annotations para evitar a necessidade de escrever construtores,
-getters, setters, entre outros, mantendo o código menor e mais limpo.
